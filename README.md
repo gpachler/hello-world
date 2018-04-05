@@ -17,4 +17,4 @@ Mit ihm sich zu befassen,
 Denn Pflasterstein bleibt Pflasterstein
 Und muss sich treten lassen.
 
----------------------------------------------
+==================================
